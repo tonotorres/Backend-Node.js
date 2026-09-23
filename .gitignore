@@ -1,0 +1,4 @@
+# Variables de entorno: se quedan en local, no se suben
+.env
+.env.local
+.env.*.local
